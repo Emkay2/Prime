@@ -7,7 +7,7 @@
 
 
 <p align="center">
-<a href="https://github.com/mickeynagasaki12/Prime"><img title="Author" src="https://img.shields.io/badge/THE 𝐏𝐑𝐈𝐌𝐄-𝐀𝐈 -black?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/mickeynagasaki12/Prime"><img title="SOMIYA" src="https://img.shields.io/badge/THE 𝐏𝐑𝐈𝐌𝐄-𝐀𝐈 -black?style=for-the-badge&logo=github"></a>
 <p/>
 
 <p align="center">
@@ -21,7 +21,7 @@
 
 <h2 align="left">ＳＥＳＳＩＯＮ ＩＤ (ＰＡＩＲ ＣＯＤＥ)</h2>
 <p align="left">
-<a href="https://replit.com/@mickeynagasaki1/Pairing-prime?v=1"><img height= "40" title="Author" src="https://img.shields.io/badge/SESSION ID-black?style=for-the-badge&logo=replit"></a>
+<a href="https://replit.com/@mickeynagasaki1/Pairing-prime?v=1"><img height= "40" title="SOMIYA" src="https://img.shields.io/badge/SESSION ID-black?style=for-the-badge&logo=replit"></a>
 <p/>
 
 ****
@@ -50,7 +50,7 @@
 
 
    <p align="left">
-      <a href="https://chat.whatsapp.com/H3T9SI97DnOIgXc4VkuXSz"><img height= "40" length= "10" title="Author" src="https://img.shields.io/badge/Support Group-25D366?style=for-the-badge&logo=whatsApp&logoColor=white"></a>
+      <a href="https://chat.whatsapp.com/H3T9SI97DnOIgXc4VkuXSz"><img height= "40" length= "10" title="SOMIYA" src="https://img.shields.io/badge/Support Group-25D366?style=for-the-badge&logo=whatsApp&logoColor=white"></a>
      <p/>
 
 
