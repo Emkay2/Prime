@@ -1,6 +1,6 @@
 # PRIME-AI
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=PRIME-AI;WHATSAPP+BOT;CREATED+BY+DARK_INTENT" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=PRIME-AI;WHATSAPP+BOT;CREATED+BY+SOMIYA_NEGI" alt="Typing SVG" /></a>
   </p>
   
 <p align="center">
@@ -13,7 +13,7 @@
 <a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-SOMIYA_NEGI-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="'https://wa.me/254102074064yoh+ا۬͢𝆺𝅥⃝🏴‍☠️𝄄꯭𝙎𝙊𝙈𝙄𝙔𝝙'᭄͢ 🇺🇸𝙉𝜩‌𝙂𝙄ẞ +nishow+venye+nitadeploy+drex-ai'"><img title="Whatsapp" src="'https://wa.me/254740782927yoh+ا۬͢𝆺𝅥⃝🏴‍☠️𝄄꯭𝙎𝙊𝙈𝙄𝙔𝝙'᭄͢ 🇺🇸𝙉𝜩‌𝙂𝙄ẞ⸼ +nishow+venye+nitadeploy+prime-ai'?color=green&style=flat-square"></a>
+<a href="'https://wa.me/254102074064yoh+ا۬͢𝆺𝅥⃝🏴‍☠️𝄄꯭𝙎𝙊𝙈𝙄𝙔𝝙'᭄͢ 🇺🇸𝙉𝜩‌𝙂𝙄ẞ +nishow+venye+nitadeploy+prime-ai'"><img title="Whatsapp" src="'https://wa.me/254740782927yoh+ا۬͢𝆺𝅥⃝🏴‍☠️𝄄꯭𝙎𝙊𝙈𝙄𝙔𝝙'᭄͢ 🇺🇸𝙉𝜩‌𝙂𝙄ẞ⸼ +nishow+venye+nitadeploy+prime-ai'?color=green&style=flat-square"></a>
   
 <a href="https://wa.me/254102074064yoh+ا۬͢𝆺𝅥⃝🏴‍☠️𝄄꯭𝙎𝙊𝙈𝙄𝙔𝝙'᭄͢ 🇺🇸𝙉𝜩‌𝙂𝙄ẞ⸼"><img title="Twitter" src="https://x.com/NSirm5?s=09?color=black&style=flat-square"></a>
 <a href="https://github.com/mickeynagasaki12/prime-ai/network/members"><img title="Forks" src="https://img.shields.io/github/fork/mickeynagasaki12/prime-ai?color=yellow&style=flat-square"></a>
