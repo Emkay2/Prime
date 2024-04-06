@@ -1,84 +1,84 @@
-#PRIME-AI
- <div align="center">  
-  <a href="https://git.io/typing-svg">
-    <img alt="𝐏𝐑𝐈𝐌𝐄-𝐀𝐈" width="600" height="350" src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=PRIME_𝐀𝐈;WHATSAPP+BOT;CREATED+BY+SOMIYA_NEGI">
-  </a>
-</p>
-
-
-
-<p align="center">
-<a href="https://github.com/mickeynagasaki12/Prime"><img title="SOMIYA" src="https://img.shields.io/badge/THE 𝐏𝐑𝐈𝐌𝐄-𝐀𝐈 -black?style=for-the-badge&logo=github"></a>
-<p/>
-
-<p align="center">
-<a href="https://github.com/mickeynagasaki12tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/primemike?label=Followers&style=social"></a>
-<a href="https://github.com/mickeynagasaki12/Prime/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/mickeynagasaki12/Prime?&style=social"></a>
-<a href="https://github.com/mickeynagasaki12/Primenetwork/members"><img title="Fork" src="https://img.shields.io/github/forks/mickeynagasaki12/Prime?style=social"></a>
-<a href="https://github.com/mickeynagasaki12/Prime/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/mickeynagasaki12/Prime?label=Watching&style=social"></a>
-</p>
- 
-<h1 align="center">𓆉𝐏𝐑𝐈𝐌𝐄-𝐀𝐈𓆉</h1>
-
-<h2 align="left">ＳＥＳＳＩＯＮ ＩＤ (ＰＡＩＲ ＣＯＤＥ)</h2>
-<p align="left">
-<a href="https://replit.com/@mickeynagasaki1/Pairing-prime?v=1"><img height= "40" title="SOMIYA" src="https://img.shields.io/badge/SESSION ID-black?style=for-the-badge&logo=replit"></a>
-<p/>
-
-****
-
-
-
-
-<h1 align="left">ÐΣPLOY TO HΣЯOKU</h1> 
-
-#### 1. If You don't have an account in Heroku. Create an account.
-<br>
-       <p align="left"><a href="https://signup.heroku.com"> <img src="https://img.shields.io/badge/heroku%20Account-purple?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
-
-
-
-
-<h1 align="left">ÐΣPLOY TO REPLIT</h1> 
-
-1. If You don't have an account in Replit. Create a account.
-    <br>
-<p align="left"><a href="https://replit.com/signup"> <img src="https://img.shields.io/badge/replit%20Account-purple?style=for-the-badge&logo=replit" width="220" height="38.45"/></a></p>
-
-
-<h1 align="left">suᴘᴘoʀт ԍʀouᴘ ʟιɴκ</h1>
-
-
-
-   <p align="left">
-      <a href="https://chat.whatsapp.com/H3T9SI97DnOIgXc4VkuXSz"><img height= "40" length= "10" title="SOMIYA" src="https://img.shields.io/badge/Support Group-25D366?style=for-the-badge&logo=whatsApp&logoColor=white"></a>
-     <p/>
-
-
-
- 
-
-
-### TERMUX
-1. 
-```sh
-$ pkg upgrade -y && pkg update -y
-$ pkg install git -y
-$ pkg install nodejs -y
-$ pkg install ffmpeg -y
-$ pkg install imagemagick -y
-$ git clone https://github.com/mickeynagasaki12/Prime
-$ cd Prime
-$ npm i 
-$ npm start
-```
-2. Wait for the to start...
-3. Scan the QR code from the second device. (Go to WhatsApp > Linked Devices > Link a Device) 
----------
-
-<h2 align="left">All Credits To Prime Ai</h2>
-
-<a href="https://github.com/mickeynagasaki12"><img src="https://telegra.ph/file/54ba01cf94a6b8bdc3f50.jpg" width="70" height="70" alt="Prime"/></a>
+# PRIME-AI
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=PRIME-AI;WHATSAPP+BOT;CREATED+BY+DARK_INTENT" alt="Typing SVG" /></a>
+  </p>
   
-`𝐏𝐑𝐈𝐌𝐄`
+<p align="center">
+<img src="https://telegra.ph/file/249815a9c49ee31be4d92.jpg" width="650" height="500"/>
+</p>
+<p align="center">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=PRIME-AI+WHATSAPP+BOT" alt="">
+</p>
+<p align="center">
+<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-SOMIYA_NEGI-red.svg?style=for-the-badge&logo=github"></a>
+</p>
+<p align="center">
+<a href="'https://wa.me/254102074064yoh+ا۬͢𝆺𝅥⃝🏴‍☠️𝄄꯭𝙎𝙊𝙈𝙄𝙔𝝙'᭄͢ 🇺🇸𝙉𝜩‌𝙂𝙄ẞ +nishow+venye+nitadeploy+drex-ai'"><img title="Whatsapp" src="'https://wa.me/254740782927yoh+ا۬͢𝆺𝅥⃝🏴‍☠️𝄄꯭𝙎𝙊𝙈𝙄𝙔𝝙'᭄͢ 🇺🇸𝙉𝜩‌𝙂𝙄ẞ⸼ +nishow+venye+nitadeploy+prime-ai'?color=green&style=flat-square"></a>
+  
+<a href="https://wa.me/254102074064yoh+ا۬͢𝆺𝅥⃝🏴‍☠️𝄄꯭𝙎𝙊𝙈𝙄𝙔𝝙'᭄͢ 🇺🇸𝙉𝜩‌𝙂𝙄ẞ⸼"><img title="Twitter" src="https://x.com/NSirm5?s=09?color=black&style=flat-square"></a>
+<a href="https://github.com/mickeynagasaki12/prime-ai/network/members"><img title="Forks" src="https://img.shields.io/github/fork/mickeynagasaki12/prime-ai?color=yellow&style=flat-square"></a>
+<a href="https://github.com/owlai01/prime-ai/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/mickeynagasaki12/prime-ai?label=Watchers&color=red&style=flat-square"></a>
+<a href="https://github.com/mickeynagasaki12/prime-ai/"><img title="Size" src="https://img.shields.io/github/repo-size/AlipBot/Api-Alpis?style=flat-square&color=darkred"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/owlai01/Owl-Ai/%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2304FF00&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/owlai01/drex-ai/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained-No-red.svg"></a>&nbsp;&nbsp;
+</p>
+
+
+***Made on Earth by ا۬͢𝆺𝅥⃝🏴‍☠️𝄄꯭𝙎𝙊𝙈𝙄𝙔𝝙'᭄͢ 🇺🇸𝙉𝜩‌𝙂𝙄ẞ'''
+
+
+***This bot is created with the help of NodeJS and uses [Baileys](https://github.com/adiwajshing/Baileys)***
+
+## FEATURES
+This is a highly customisable simple whatsapp bot with group management features and few media commands and chatgpt courtesy of openai APIs.
+
+You will need an openai API key for AI features to work.
+
+# SET-UP
+
+Linking/Pairing:
+
+
+## ` Pair On reptil`
+<h2 align="left">  <a href="https://replit.com/@mickeynagasaki1/Pairing-prime?v=1"><img src="https://repl.it/badge/github/quiec/whatsasena" />
+</a>
+</h2>
+
+Alternatively, pair locally using the repo [Here](https://github.com/Fortunatusmokaya/DREADED-PAIRING)
+
+    
+<h2 align="center">   
+
+
+
+    
+<h2 align="center">   
+
+- Fork this repo by tapping  [here](https://github.com/mickeynagasaki12/prime-ai/fork)
+
+
+- Upload the creds.json that you received to the dreaded1 folder.
+
+- Connect your fork to any suitable cloud host and deploy.
+
+- Add the environmental variables in .env into your hosting site for bot to work.
+</h2>
+ 
+     
+
+    
+ 
+
+
+
+Incase you're facing any problems with rhe deployments, contact me  [here](https://wa.me/254740782927) via WhatsApp or [here](mickeynagasaki12@gmail.com) via Email.
+
+Modifying the bot structure is at your own risk. We won't offer technical support in case of errors resulting!
+
+
+## License
+
+[MIT License](https://https://github.com/mickeynagasaki12/Cprime-ai/blob/main/LICENSE)
+
+Copyright (c) 2023 PRIME-AI
 
