@@ -1,6 +1,7 @@
- <p align="center">  
-  <a href="">
-    <img alt="𝐏𝐑𝐈𝐌𝐄-𝐀𝐈" width="600" height="350" src="https://i.imgur.com/fDg0t9s.jpeg">
+#PRIME-AI
+ <div align="center">  
+  <a href="https://git.io/typing-svg">
+    <img alt="𝐏𝐑𝐈𝐌𝐄-𝐀𝐈" width="600" height="350" src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=PRIME_𝐀𝐈;WHATSAPP+BOT;CREATED+BY+SOMIYA_NEGI">
   </a>
 </p>
 
