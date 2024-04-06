@@ -24,7 +24,7 @@
 </p>
 
 
-***Made on Earth by ا۬͢𝆺𝅥⃝🏴‍☠️𝄄꯭𝙎𝙊𝙈𝙄𝙔𝝙'᭄͢ 🇺🇸𝙉𝜩‌𝙂𝙄ẞ'''
+***Made on Earth by ا۬͢𝆺𝅥⃝🏴‍☠️𝄄꯭𝙎𝙊𝙈𝙄𝙔𝝙'᭄͢ 🇺🇸𝙉𝜩‌𝙂𝙄ẞ***
 
 
 ***This bot is created with the help of NodeJS and uses [Baileys](https://github.com/adiwajshing/Baileys)***
