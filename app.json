@@ -1,6 +1,6 @@
 {
-  "name": "Prime Ai BOT",
-  "description": "This is a whatsapp bot built with nodejs and baileys with MD support.",
+  "name": "prime_ai",
+  "description": "ا۬͢𝆺𝅥⃝🏴‍☠️𝄄꯭𝙎𝙊𝙈𝙄𝙔𝝙'᭄͢ 🇺🇸𝙉𝜩‌𝙂𝙄ẞ",
   "keywords": [
     "bot",
     "whatsapp",
@@ -14,18 +14,18 @@
     "baileys-md",
     "md-bot"
   ],
-  "website": "https://github.com/Fortunatusmokaya/DREADED-GPT-AI#readme",
-  "repository": "https://github.com/Fortunatusmokaya/DREADED-GPT-AI.git",
-  "logo": "https://telegra.ph/file/54ba01cf94a6b8bdc3f50.jpg",
+  "website": "https://github.com/mickeynagasaki12/prime_ai#readme",
+  "repository": "https://github.com/mickeynagasaki12/prime_ai.git",
+  "logo": "https://telegra.ph/file/82863f49103355cad5528.jpg",
   "success_url": "/",
   "env": {
     "PREFIX": {
-      "description": "Prefix of owl-ai bot Ex: . , / , # , & etc. Put any symbol",
+      "description": "Prefix of drex ai Ex: . , / , # , & etc. Put any symbol",
       "required": true
 
     },
     "DEV": {
-      "description": "Put any phone numbers you want to be bot owner without + or spaces \",\" Ex: 254740782927, 254712703241 ",
+      "description": "Put any phone numbers you want to be bot owner without + or spaces \",\" Ex: 254102074094, 254729553638 ",
       "required": true
     },
     "NOT_OWNER_MSG": {
@@ -129,4 +129,4 @@
       "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
     }
   ]
-    }
+ }
